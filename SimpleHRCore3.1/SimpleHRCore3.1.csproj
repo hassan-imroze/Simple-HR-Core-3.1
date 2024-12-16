@@ -5,5 +5,9 @@
     <RootNamespace>SimpleHRCore3._1</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\LoggerService\LoggerService.csproj" />
+  </ItemGroup>
+
 
 </Project>
